@@ -37,7 +37,9 @@ UPPER_CASE_VALUES.toUpperCaseValues(days);
 
 ### Clone the repo
 
-git clone https://github.com/luthraG/uppercase-values.git
+```bash
+$ git clone https://github.com/luthraG/uppercase-values.git
+```
 
 ### API
 
